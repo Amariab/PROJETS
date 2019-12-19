@@ -1,0 +1,26 @@
+Identification du projet
+Nom du projet : «Gestion d'une production agricole micropousses»
+Nature du projet: Projet pédagogique mené par les apprenants en Dev Data dans le cadre de l'atelier conception de base de donnée
+
+L'objet principal de ce projet est de fournir une proposition de base de donnée qui permettra la gestion de production agricole de l'entreprise "Paysan Urbain" qui se spécialise dans la production et la vente des micropousses.
+
+Ses enjeux pour l'organisme sont les suivants :
+- Améliorer le rendement de l'entreprise
+- Meilleur gestion du travail
+- Optimization du temps
+- Vision d'ensemble du fonctionnement de l'association
+- Eviter les pertes
+- Suivi de la vie d'une pousse
+- Gestion de commandes client
+- Gestion de commandes auprès des fournisseurs
+- Gestion des serres
+
+Ses enjeux dans le cadre de l'atelier "conception de base de données" sont :
+- Developpement des compétences suivantes
+  	- conception et structuration d'une base de donnée
+	- interrogation d'une base de donnée
+	- rendre compte de l'avancement du projet
+- Entraînement à la gestion d'un projet d'entreprise
+- Maitrise du contact avec client
+- Travail en méthode AGILE
+
